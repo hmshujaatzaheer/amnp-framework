@@ -24,7 +24,6 @@
 | **Examples** | Demonstration scripts for each algorithm | `examples/` |
 | **Tests** | Unit tests for GASR optimizer | `tests/` |
 | **Theory** | Mathematical foundations document | `docs/theory.md` |
-| **PhD Application** | Letter of Motivation, Research Statement, Research Proposal | `application_materials/` |
 
 **Keywords:** `neural-quantum-states` `non-hermitian` `variational-monte-carlo` `fermionic-systems` `machine-learning` `quantum-many-body` `jax` `stochastic-reconfiguration` `majorana-operators` `thermal-states`
 
